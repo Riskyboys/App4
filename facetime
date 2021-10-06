@@ -1,6 +1,6 @@
 {
-   "app_redirectOtherAppStatus":"0",
-   "app_newPackageName":"https://play.google.com/store/apps/details?id=starutsav.freestarutsavserialsapps15.freestarutsavserialsapp",
+   "app_redirectOtherAppStatus":"1",
+   "app_newPackageName":"https://play.google.com/store/apps/details?id=com.freefacetimevideocallchatingusa.facetimevideocallapp2",
    "app_AppOpenAdStatus":"0",
    "app_dialogBeforeAdShow":"0",
    "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
@@ -13,7 +13,7 @@
    "Admob_Interstitial":"ca-app-pub-3940256099942544/1033173712",
    "Admob_Native":"ca-app-pub-3940256099942544/2247696110",
    "AppOpen":"ca-app-pub-3940256099942544/3419835294",
-   "mopub_showStatus":"1",
+   "mopub_showStatus":"0",
    "mopub_banner":"fcb8ebed0c38412dbb97304b1718b521",
    "mopub_inter1":"5978d0c8eb38483b9c00f1f0bdeb77fd",
    "mopub_inter2":"5978d0c8eb38483b9c00f1f0bdeb77fd",
